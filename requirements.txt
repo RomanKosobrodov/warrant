@@ -1,5 +1,5 @@
-boto3>=1.10.49
-envs~=1.3
-python-jose[pycryptodome]~=3.1.0
-requests>=2.22.0
-six>=1.13.0
+boto3>=1.37.28
+envs~=1.4
+python-jose[pycryptodome]~=3.4.0
+requests>=2.32.3
+six>=1.17.0
